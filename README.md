@@ -22,7 +22,7 @@
 
 ## 联系
 
-你可以在Github上联系我，也可以添加致命公司的其中一个QQ小群 1059594439（加群理由是有挑战性的），我也维护xiandaoll对R.E.P.O.的一些汉化，当然现在我玩游戏很菜的
+你可以在Github上联系我，也可以添加致命公司的其中一个 QQ小群 1059594439，我也维护xiandaoll对R.E.P.O.的一些汉化，当然现在我玩游戏很菜的
 
 ## 贡献
 
@@ -37,6 +37,8 @@ chuxiaaaa - 提供了最简单直接的对GameTranslator的字体问题修复，
 NakiriFox、init、externC、Lenghui - 在 Sweetfox 本土化翻译的基础上提供了第二波的新翻译补充
 
 糖Alan - 在 Sweetfox 本土化翻译的基础上提供了第三波的新翻译补充
+
+MOXIAOLE - 在 Sweetfox 本土化翻译的基础上提供了第四波的新翻译补充
 
 SnowFlake - 制作了不少的本土化翻译，迁移至 GameTranslator 时的终端汉化就是基于他的
 
